@@ -30,5 +30,5 @@ This project focuses on the core logic. Great for learning:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sudoku-game.git
-   cd sudoku-game
+   git clone https://github.com/your-username/sudoku.git
+   cd sudoku
